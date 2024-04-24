@@ -15,6 +15,7 @@ Here's a catalog of the curiosities:
 - **Mini Python Projects**: A menagerie of petite projects, including:
   - PIG: A simple yet addictive number guessing game... but don't land on 1!
   - Madlibs Generator: Fill in the blanks and generate stories that twist and turn with every word you choose.
+  - Math Challenge: A fun math quiz game, ran out of the terminal, reminiscent of elementary school flashcards. Better hurry though, because it's timed! :D 
 
 ## Quick Start
 
