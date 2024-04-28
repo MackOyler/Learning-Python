@@ -1,5 +1,3 @@
-
-
 def deposit():
     while True:
         amount = input("Enter the amount you would like to deposit: $")
@@ -13,8 +11,6 @@ def deposit():
             print("Please enter a number.")
             
     return amount 
-
-
 
 def main():
     balance = deposit()

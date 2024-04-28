@@ -12,7 +12,7 @@ Here's a catalog of the curiosities:
 - **Number Guesser**: A game of numerical intuition - can you guess what number the Pythonic oracle is thinking of?
 - **Choose Your Own Adventure**: Dive into interactive stories where your choices carve the path forward.
 - **Python-Platformer**: Jump and run in this basic platformer game created with Python.
-- **Slot-Machine**: 
+- **Slot-Machine**: Currently in progress. This will be updated once this is completed! 
 - **Mini Python Projects**: A menagerie of petite projects, including:
   - PIG: A simple yet addictive number guessing game... but don't land on 1!
   - Madlibs Generator: Fill in the blanks and generate stories that twist and turn with every word you choose.
